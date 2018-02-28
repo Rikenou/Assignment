@@ -9,6 +9,8 @@ int main()
 
 	std::cout << "Hi" << std::endl;
 
+	system("PAUSE");
+
     return 0;
 }
 
